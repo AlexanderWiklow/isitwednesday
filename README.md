@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+![](./src/assets/wednesday.png)
+
+## Only one way to find out, visit site: [Wednesday?](https://alexanderwiklow.github.io/isitwednesday/)
+
+---
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
