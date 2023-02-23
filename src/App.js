@@ -13,7 +13,13 @@ export default function App() {
   return (
     <div className="App">
       <h1>Is it Wednesday?</h1>
-      <h2 className={isWednesday ? 'yes' : 'no'}>{isWednesday ? 'Yes' : 'No'}</h2>
+      {/* if else */}
+      {isWednesday ? (
+        <h2 className="yes">Yes 🐸</h2>
+      ) : (
+          <h2 className="no">No 😕</h2>  
+      )}
+      {/* <h2 className={isWednesday ? 'yes' : 'no'}>{isWednesday ? 'Yes' : 'No'}</h2> */}
     </div>
   );
 }
