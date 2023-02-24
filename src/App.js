@@ -1,6 +1,6 @@
 import "./App.css";
 import { useState, useEffect } from "react";
-import frog from "../public/assets/icons8-kermit-the-frog-100.png";
+import frog from "../public/assets/isitwednesday/icons8-kermit-the-frog-100.png";
 import sad from "../public/assets/icons8-sad-100.png";
 
 export default function App() {
