@@ -25,6 +25,7 @@ export default function App() {
         <>
           <h2 className="no">No</h2>
           <img src={sad} alt="sad face" />
+          <img src={frog} alt="frog" />
         </>
       )}
       {/* <h2 className={isWednesday ? 'yes' : 'no'}>{isWednesday ? 'Yes' : 'No'}</h2> */}
